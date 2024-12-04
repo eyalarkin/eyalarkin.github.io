@@ -6,22 +6,6 @@ CLASS: Fall 2024 Data Science Project
 
 BY: Eric Hay, Eyal Arkin, Joseph Ettinger
 
-CONTRIBUTIONS (BASED ON THE GIVEN STEPS): 
-
-[***PART A, Project Idea - Joseph Ettinger***] The first step in the process was generating an idea. As someone with Obsessive-Compulsive Disorder and a deep love for music, I was struck by the idea of exploring the relationship between the two after coming across a really interesting dataset on Kaggle. After all, listening to music daily as much as I do must have some effect on my mental health, right? If so, to what extent does it impact me? Which genres resonate most with my mind? There was so much to uncover. Since this topic resonates deeply with everyone on some level, my teammates were excited to jump on board. 
-
-[***PART B, Dataset Curation & Preprocessing - Eric Hay, Eyal Arkin, & Joseph Ettinger***] The aforementioned dataset became the foundation of our project. It included all the necessary features and data points to explore potential relationships and, ultimately, train a more advanced machine learning model. Our first step was importing the dataset, followed by applying various cleaning techniques to preprocess the data before diving into exploration. 
-
-[***PART C, Data Exploration & Summary Statistics - Eric Hay & Eyal Arkin***] Next, we conducted initial explorations of the data. This step was crucial to uncovering potential relationships, identifying assumptions that might not hold true, and gaining a better understanding of the dataset. These early discoveries and summary statistics enabled us to focus on a more detailed and sophisticated analysis of the data, one that leveraged machine learning techniques. 
-
-[***PART D, ML Algorithm Design/Development - Eric Hay, Eyal Arkin, & Joseph Ettinger***] Before we could start using machine learning models, we first needed to determine what type of model to use, why it was the best fit, and how we would implement it. This stage required deep collaboration as we worked through a variety of critical questions and developed our algorithm. For instance, was this a classification problem? If so, what implications would that have for feature engineering? Would we need to convert quantitative data into categorical data to make it compatible with a decision tree? And, most importantly, was a decision tree even the best approach? These are just a few of the many questions we tackled. Ultimately, this stage was all about gathering the necessary information, strategizing, and conducting feature engineering before taking action...much like aiming before taking the shot. 
-
-[***PART E, ML Algorithm Training & Test Data Analysis - Eric Hay & Eyal Arkin***] Once our data was fully prepared with the selected features and our procedure was finalized, it was time to train the model. We utilized various Python libraries, tools, and functions to train and test the data, fully immersing ourselves in the machine learning process. Throughout this phase, we continually questioned our approach: Were we at risk of overfitting, and how could we address it? Were we focusing on the right features? Doubt is natural in such a complex process, but we found that the deeper we explored, the more valuable insights we uncovered. 
-
-[***PART F, Visualization, Result Analysis, Conclusion - Eric Hay, Eyal Arkin, & Joseph Ettinger***] Once our model was trained, we could apply it, visualize the results, and draw conclusions from our findings. This was, without a doubt, the most meaningful part of the process, as it allowed us to uncover insights and find purpose in the work we were doing. Whether the results supported our original hypothesis or contradicted it, they always led us to valuable discoveries. That’s the beauty of working with machine learning—you might not always get the outcomes you expect, but you’ll always uncover insights that deepen your understanding and guide you toward further exploration. 
-
-[***PART G, Visualization, Result Analysis, Conclusion - Joseph Ettinger***] After completing our work, we created this final tutorial. While the goal of machine learning is to uncover insights about a topic, its true value lies in effectively sharing those insights with others. If the findings can’t be communicated clearly, concisely, and elegantly, the impact of the research is greatly diminished. Machine learning helps us discover meaning, but it’s the researcher’s responsibility to make that knowledge accessible and actionable for others.
-
 ### Introduction
 
 ![Music and mental health meme](320_MEME.png)
